@@ -10,6 +10,7 @@ github_username:  marcelvanworkum
 # Build settings
 markdown: kramdown
 permalink: pretty
+google_analytics: "UA-162433726-1"
 
 highlighter: rouge
 kramdown:
