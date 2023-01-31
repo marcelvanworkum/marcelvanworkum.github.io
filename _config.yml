@@ -1,0 +1,18 @@
+# Site settings
+title: Marcel van Workum
+email: 
+description: "My thoughts."
+baseurl: ""
+url: "http://marcelvanworkum.github.io"
+twitter_username: marcelvanworkum
+github_username:  marcelvanworkum
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
