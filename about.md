@@ -1,8 +1,5 @@
 ---
-layout: page
-title: About
-permalink: about/
-includelink: true
+layout: about
 ---
 
 A place to write about software development and life.
