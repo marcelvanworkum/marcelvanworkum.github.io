@@ -4,18 +4,17 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              <a class="black-link" href="{{ site.url }}/about.html">
-                {{ site.author | escape }} 
-              </a>
-            {%- endif -%}
+          {%- if site.author -%}
+            <li class="p-name">
+              <a class="black-link" href="{{ site.url }}/about.html"> {{ site.author | escape }} </a>
             </li>
-            {%- if site.email -%}
+          {%- endif -%}
+          {%- if site.email -%}
             <li>
-            <a class="u-email black-link" href="mailto:{{ site.email }}">{{ site.email }} </a></li>
-            <span id="busuanzi_container_site_pv">This site was visited by: <span id="busuanzi_value_site_pv"></span> times</span>
-            {%- endif -%}
+              <a class="u-email black-link" href="mailto:{{ site.email }}">{{ site.email }} </a>
+            </li>
+          {%- endif -%}
+          <span id="busuanzi_container_site_pv">Site visits: <span id="busuanzi_value_site_pv"></span></span>
         </ul>
       </div>
     </div>
