@@ -32,7 +32,7 @@ plugins:
 
 moving:
   about_you: Notes on software development and life.
-  # avatar_url: avatar.jpg
+  avatar_url: avatar.jpeg
   date_format: "%b %d"
   back_to: "Index"
   social_links:
