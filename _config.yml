@@ -3,7 +3,6 @@ author: Marcel van Workum
 email:
 description: Notes on software development and life.
 url: "https://marcelvanworkum.com"
-# url: "http://marcelvanworkum.github.io"
 
 # Build settings
 remote_theme: huangyz0918/moving
