@@ -1,19 +1,41 @@
 # Site settings
-title: Marcel van Workum
+# title: Marcel van Workum
+# email:
+# description: "Notes on software development and life."
+# baseurl: ""
+# url: "http://marcelvanworkum.github.io"
+# twitter_username: marcelvanworkum
+# github_username: marcelvanworkum
+
+# # Build settings
+# markdown: kramdown
+# permalink: pretty
+# google_analytics: "G-Q459DVJJQ2"
+# theme: moving
+
+# highlighter: rouge
+# kramdown:
+#   input: GFM
+#   auto_ids: true
+#   syntax_highlighter: rouge
+
+title: Marcel van Workums's Blog
+author: Marcel van Workum
 email:
-description: "Notes on software development and life."
-baseurl: ""
-url: "http://marcelvanworkum.github.io"
-twitter_username: marcelvanworkum
-github_username: marcelvanworkum
+description: Notes on software development and life.
+url: "https://marcelvanworkum.com/"
 
 # Build settings
-markdown: kramdown
-permalink: pretty
-google_analytics: "G-Q459DVJJQ2"
+remote_theme: huangyz0918/moving
+plugins:
+  - jekyll-feed
 
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+moving:
+  about_you: Notes on software development and life.
+  # avatar_url: avatar.jpg
+  date_format: "%b %d"
+  back_to: "Index"
+  social_links:
+    rss: RSS
+    github: marcelvanworkum
+    # linkedin: yizheng-huang
