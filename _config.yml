@@ -1,16 +1,16 @@
 # Site settings
 title: Marcel van Workum
-email: 
-description: "My thoughts."
+email:
+description: "Notes on software development and life."
 baseurl: ""
 url: "http://marcelvanworkum.github.io"
 twitter_username: marcelvanworkum
-github_username:  marcelvanworkum
+github_username: marcelvanworkum
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-google_analytics: "UA-162433726-1"
+google_analytics: "G-Q459DVJJQ2"
 
 highlighter: rouge
 kramdown:
