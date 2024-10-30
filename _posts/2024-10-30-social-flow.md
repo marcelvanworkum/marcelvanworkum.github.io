@@ -11,7 +11,7 @@ Pair those two together, and you'll find yourself with a workaholic who prefers 
 
 Luckily for me remote work is a thing, and so in today's times I am able to thrive professionally.
 
-As much as I would like to stay at home all day and code, sometime there is this thing called 'Life' that gets in the way.
+As much as I would like to stay at home all day and code, sometimes there is this thing called 'Life' that gets in the way.
 
 Life is amazing, you should really check it out sometime. The graphics are insane, but unfortunately Life also comes with one major downside;
 
@@ -69,7 +69,7 @@ This allows you to enter the state of Social Flow.
 
 You are present, and engaged. You've signalled to yourself that you okay with trading this fixed amount of time to be here. 
 
-And before you know it, you'll have pasted your minimum time for your Flow state. 
+And before you know it, you'll have passed your minimum time for your Flow state. 
 
 In a world where most people are glued to their phones, do not underestimate the power presence. 
 
@@ -79,4 +79,4 @@ In the words of Charles Bukowski:
 
 > [If you're going to try, go all the way. otherwise, don't even start.](https://www.youtube.com/watch?v=KL2T0XRzWUI)
 
-But don't let that nihilistic voice in your head win. Go all the way, and go with Social Flow.
+So, the next time you're faced with a social event, choose to immerse yourself completely. Remember, life is meant to be shared. By entering a state of Social Flow, you're making the most of those shared moments. Don't just attend—engage, connect, and contribute your authentic self.
