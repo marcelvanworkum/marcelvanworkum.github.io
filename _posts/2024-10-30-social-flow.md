@@ -1,4 +1,3 @@
-Social Flow
 ---
 layout: post
 title: "Social Flow"
@@ -18,7 +17,7 @@ Life is amazing, you should really check it out sometime. The graphics are insan
 
 ## Social Obligations
 
-![Meme](../assets/coding-head.jpg)
+![Meme](/assets/coding-head.jpg)
 
 ---
 
